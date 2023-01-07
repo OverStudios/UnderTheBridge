@@ -1,0 +1,4 @@
+Realmente programacion poca, se crea un componente de playable director y luego creamos un timeline.
+Este timeline lo copiamos al componente, y empezamos a animar la camara y el coche, no hay q currarselo mucho mas 
+si la imagen de la carretera es jodidamente enorme, con animar la camara siguiendo al coche en el timeline estaria redi.
+Lo he estado mirando pero ya pondre mas detalles.

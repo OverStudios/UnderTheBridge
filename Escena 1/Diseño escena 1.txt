@@ -1,0 +1,19 @@
+Escena 1_: El inicio, y pantalla de carga-
+Descripcion:
+	Al darle a jugar, se ve la pantalla de carga del juego, es decir, el coche en la carretera yendo para rriba
+sin rumbo con un efecto infinito d la carretera(paralax). Haremos un juego de camaras y nada mas empiece, empezara con la camara enfocando al coche 
+y alejandose hacia arriba mostrando todo el escenario.
+Lo he pensado mejor, y creo que quedaria mejor en vez de el coche en medio, a la derecha con las farolas a la izquierda, y a la iquierda de las farolas
+el agua.Lo reutilizaremos entre escena y escena por lo q currarselo un minimo cuervvo y bodegas. 
+Para ello necesitamos q el fondo sea bastante grande ya q la camara tiene q seguir al coche durante 15-20s.
+
+Necesario:
+	 -4 Sprites del coche, iguales pero cambiando las ruedas, asi podmos hacer el efecto de q esta moviendose el coche y no solo seria el movimiento de la cam
+	El tamaño tendreis q calcularlo respecto a la carretera, es decir la mitad de ancho de la carretera mas  o menos. Colores del coche rojo y negro al poder ser.
+	 Escenario unos 1920x3000?px(ir probando pero prefiero q sobre a que se quede corto):
+	-Farolas(apagadas y encendidas),sombras,carretera,agua,quitamiedo carretera, resto extra.
+
+Boceto para mas.
+	
+	
+

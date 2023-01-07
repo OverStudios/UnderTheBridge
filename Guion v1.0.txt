@@ -1,0 +1,32 @@
+Under the bridge es un juego 2d plataformas y lineal.
+Consiste en la aventura de un protagonista curioso, investigador y extrovertido que no puede quedarse quieto sin respuestas.
+Sigue el legado de su padre, que un dia desapareció y dejando unos indicios llega a la ubicación donde empieza el juego.
+1a CINEMATICA:Empieza el juego en la carretera, yendo en coche sin verse su rostro. Al aparcar  en la segunda escena 
+2a CINEMATICA: se encuentra un bar y desde ahi no 
+sabe hacia donde seguir, ya que todo lo que sabia el chico eran dos indicios(ubicacion y..). Por lo cual entra y pregunta al dueño de dicho bar si sabe algo de un puente miticuloso que es sobre lo q va el segundo
+y ultimo indicio que le dejo su padre.
+El dueño le indica que si, que hay un puente cerca de la zona pero no le recomienda ir ya que no ha conocido a nadie que haya vuelto con vida,(esta conversacion se pude detallar un poco mas)
+Nuestro protagonista sin ningun apice de miedo tiene mas ganas aún de dirigirse a este puente. 
+3a CINEMATICA: Saliendo del bar con una musica tensa, se acerca andando y
+a los pocos km se encuentra dicho puente con una neblina tenebrosa y sin vida alrededor, un puente bastante largo en mal estado y con una caida muy alta.
+(Esto se tiene que mostrar en detalle con movimientos de camara). 
+Da unos pasos para acercarse al puente pero justo cuando va a empezar a cruzarlo, escucha una voz. Aturdido no sabe si esta en su cabeza o es real,
+pues esta voz es muy rara y no le parece nada común, es mas no puede diferenciar que dice, a penas puede compararlo con el ruido de cuando no se te conecta
+el canal de radio. Con un poco mas de miedo ahora, se para unos segundos y piensa.. Pero sigue adelante y cuando da tres pasos en el puente vuelve a escuchar la voz.
+"sszszszsssssdo not follow sadazasaxa" escucha. Nuestro protagonista empieza a correr pero cuando esta llegando a la mitad del puente la niebla desaperece y misteriosamente
+ve incluso menos que antes, le da mareos todo y tiene sudores frios, en shock y sin poder reaccionar, acto seguido, le da una rafaga de viento muy rapida y le tira el puente.
+4 CINEMATICA:
+Ya de noche la camara enfoca a la cara del protagonista despertandose, tirado en el suelo,con sangre en su rostro, poniendo el titulo  "UNDER THE BRIDGE*.
+Aqui empieza el juego. Se aleja la camara y se muestra lo que va a ser el escenario normal de todo el juego, el protagonista se levanta anodadado, y empieza a andar preocupado
+sin saber si podrá vivir y recordando un flashback de la conversacion con el dueño del bar. Pero antes de perder la desesperacion recuerda la razon de porque esta ahi, y es por su padre.
+Por lo que sigue andando adelante.
+*ENTRA GAMEPLAY*
+1er escena de gamplay:
+Jugabilidad basica, aprovechamos el escenario para enseñar los controles. W para andar normal, usaremos algo deestruido como un tronco caido o algo asi  para 
+que el usuario pueda usar el espacio para saltar, acto seguido la e para interactuar con una piedra y tirarla a un pajaro para comerselo (quiero q sea gore y sin buscarle el sentido al 100% de todo aviso ya), 
+dash con shift para caer por un pequeño acantilado y atacar con click izquierdo. Tambien combinando espacio y shift podra hacer saltos mas largos que en la misma escena aprovecharemos para llegar de un sitio
+a otro que no pueda saltando normal. Despues de que haya usado el usuario todos los controles, que se podria hacer realmente en dos escenas...
+*5 CINEMATICA*
+Comiendose el puto prota que es jesucristo el pajaro y andando tranquilo, en busca de indicios, escucha la voz de nuevo, pues se puede ver que hay dos caminos
+pero coje el camino donde escucha la voz, lo sigue y entra en un tunel y se cae porque se tropieza con algo, es una espada mal usada.
+
