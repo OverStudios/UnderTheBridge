@@ -1,0 +1,16 @@
+Para empezar importar unityengine.scenemanagement
+Para cargar la escena, crearemos una funcion y llamaremos dicha escena, 
+*public void Jugar(){
+...
+}
+*public void opciones(){
+...
+}
+*public void salir(){
+...
+}
+Dentro de la funcion usamos SceneManager.LoadScene
+Despues se llama con el build y el numero de escena, en este caso la primera.
+Por lo cual seria SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + (num escena)1);
+En el editor de unity, crear un canvas con la imagen del menu, y dentro del menu tres objetos con dentro los textos de jugar etc.
+A estos textis
